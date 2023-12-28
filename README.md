@@ -1,3 +1,3 @@
 # fenil-test
 This is my first repository
-Author - Fenil Ticketwala
+Author - Fenil H Ticketwala
